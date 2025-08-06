@@ -27,7 +27,7 @@ MyCube:
 
 ## 🚀 Installation
 
-1. Download the file: `export_object_dimensions_v1.2.py`
+1. Download the file: `export_object_dimensions.py`
 2. In Blender:
    - Go to `Edit > Preferences > Add-ons`
    - Click **Install...**, select the `.py` file, then **Enable**
