@@ -15,7 +15,7 @@ tags = ["Import-Export", "Object"]
 blender_version_min = "4.2.0"
 
 license = [
-  "SPDX:MIT",
+  "SPDX:GPL-3.0-or-later",
 ]
 
 # No external Python dependencies are required.

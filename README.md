@@ -4,7 +4,7 @@
 
 ![Blender](https://img.shields.io/badge/Blender-2.80%2B-orange?logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-GPL--3.0-green)
 ![Version](https://img.shields.io/badge/version-2.0-brightgreen)
 
 Need a quick spec sheet of your models for a client, a cut list for fabrication, or dimension data to feed into another tool? **DimExport** does it in two clicks — no need to write down numbers by hand.
@@ -89,7 +89,7 @@ Pull requests are welcome. For bigger changes, open an issue first to discuss wh
 
 ## 📜 License
 
-Released under the [MIT License](LICENSE).
+Released under the [GNU General Public License v3.0 or later](LICENSE). Blender add-ons that use the Blender Python API are required to be GPL-compatible.
 
 ---
 
