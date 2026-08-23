@@ -1,13 +1,13 @@
-# 📐 Blender DimExport — Export Object Dimensions
+# 📐 Blender DimExport: Export Object Dimensions
 
-> A lightweight Blender add-on that exports the **width, height, depth and volume** of your selected mesh objects to **TXT, CSV or JSON** — right from the 3D View sidebar.
+> A lightweight Blender add-on that exports the **width, height, depth and volume** of your selected mesh objects to **TXT, CSV or JSON**, right from the 3D View sidebar.
 
 ![Blender](https://img.shields.io/badge/Blender-2.80%2B-orange?logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPL--3.0-green)
 ![Version](https://img.shields.io/badge/version-2.0-brightgreen)
 
-Need a quick spec sheet of your models for a client, a cut list for fabrication, or dimension data to feed into another tool? **DimExport** does it in two clicks — no need to write down numbers by hand.
+Need a quick spec sheet of your models for a client, a cut list for fabrication, or dimension data to feed into another tool? **DimExport** does it in two clicks, with no need to write down numbers by hand.
 
 ---
 
@@ -18,7 +18,7 @@ Need a quick spec sheet of your models for a client, a cut list for fabrication,
 | 📦 | Export **Width (X)**, **Height (Z)**, **Depth (Y)** of every selected mesh |
 | 🧮 | Optional **bounding-box volume** (W × H × D) |
 | 📄 | Three output formats: **TXT**, **CSV** (Excel/Sheets) and **JSON** (pipelines/scripts) |
-| 📏 | Unit conversion: **meters, centimeters, millimeters** — with optional unit suffix |
+| 📏 | Unit conversion: **meters, centimeters, millimeters**, with optional unit suffix |
 | ✏️ | **Custom labels** (e.g. use "Length" instead of "Width") |
 | 🎯 | Pick exactly **which dimensions** to include |
 | 🗂️ | Choose the **output folder and file name** (extension set automatically) |
@@ -69,10 +69,10 @@ Cube,2.0 m,1.0 m,1.5 m,3.0 m
 
 ## 💡 Use cases
 
-- **Product / furniture design** — generate a spec sheet for clients.
-- **3D printing & CNC** — export a cut/size list per part.
-- **Architecture / archviz** — quick dimension reports of assets.
-- **Automation** — feed JSON into your own scripts or a web catalog.
+- **Product / furniture design**: generate a spec sheet for clients.
+- **3D printing & CNC**: export a cut/size list per part.
+- **Architecture / archviz**: quick dimension reports of assets.
+- **Automation**: feed JSON into your own scripts or a web catalog.
 
 ## 🗺️ Roadmap
 
@@ -81,7 +81,7 @@ Cube,2.0 m,1.0 m,1.5 m,3.0 m
 - [ ] Copy result to clipboard
 - [ ] Batch export one file per object
 
-Have an idea? [Open an issue](../../issues) — contributions are welcome!
+Have an idea? [Open an issue](../../issues). Contributions are welcome!
 
 ## 🤝 Contributing
 
@@ -95,4 +95,4 @@ Released under the [GNU General Public License v3.0 or later](LICENSE). Blender 
 
 Made with 💻 by **Rafael Oliveira** · [raoliz.com](https://raoliz.com)
 
-If this add-on saved you some time, consider leaving a ⭐ — it helps others find it!
+If this add-on saved you some time, consider leaving a ⭐. It helps others find it!
