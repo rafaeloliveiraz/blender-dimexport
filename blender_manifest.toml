@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "export_object_dimensions"
+version = "2.0.0"
+name = "Export Object Dimensions"
+tagline = "Export object dimensions and volume to TXT, CSV or JSON"
+maintainer = "Rafael Oliveira <rafaeloliveiraz@hotmail.com>"
+
+type = "add-on"
+
+website = "https://github.com/rafaeloliveiraz/blender-dimexport"
+
+tags = ["Import-Export", "Object"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:MIT",
+]
+
+# No external Python dependencies are required.
